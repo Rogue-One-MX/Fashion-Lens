@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393595258914",
+    "project_id": "fashion-lens-hlmcug",
+    "storage_bucket": "fashion-lens-hlmcug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393595258914:android:85d6875967fa8a6b03627b",
+        "android_client_info": {
+          "package_name": "com.fashionlens.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3AKb0uyv2amrA4RwZxzaW0HuKQMsHow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
